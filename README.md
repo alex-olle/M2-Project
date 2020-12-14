@@ -1,6 +1,6 @@
 # 
 
-![readme](/Users/mathildecongiu/Documents/code/ironhack/Modulo02/Project 02/M2-Project/public/images/readme.png)
+![readme](/images/readme.png)
 
 # ROAD TO GREEN
 
