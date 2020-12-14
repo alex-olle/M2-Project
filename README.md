@@ -1,6 +1,6 @@
 # 
 
-![readme](/images/readme.png)
+![readme](public/images/readme.png)
 
 # ROAD TO GREEN
 
