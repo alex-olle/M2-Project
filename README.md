@@ -2,7 +2,7 @@
 
 ![readme](public/images/readme.png)
 
-# ROAD TO GREEN
+# SAVE YOUR DINO
 
 ## DESCRIPTION
 
